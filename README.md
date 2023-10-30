@@ -6,7 +6,7 @@ O projeto almeja realizar uma análise exploratória de dados sobre a qualidade 
 ## Pastas
 Iremos postar aqui os notebooks (.ipython) na pasta [notebooks](https://github.com/jaxrosil/aed_mackenzie/tree/main/notebooks) e o recorte da base em si está disponível (.csv) na pasta [bd](https://github.com/jaxrosil/aed_mackenzie/tree/main/bd).
 ## Alunos
-- Ana Cláudia de Lima
+- Ana Cláudia de Lima Aleixo
 - Jax Rocha da Silva
 - Jennifer Priscilla Correa Cruz
 - Paulo Augusto Rocha dos Santos
